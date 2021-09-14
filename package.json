@@ -1,0 +1,16 @@
+{
+  "name": "retail-frontend-recruitment-test",
+  "version": "1.0.0",
+  "description": "The goal of this task is to refactor a piece of code. You should change it so it become in a way that you would like to find it when you are working in a software project. The only rule is that the provided index.html page should write the calculated price to the console for the given parameters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^9.1.1"
+  }
+}
